@@ -2,7 +2,7 @@
 lecture evaluation
 
 # index
-※유튜브 나도코딩 강의 수강(https://www.youtube.com/watch?v=yQ20jZwDjTE)
+※유튜브 나도코딩 강의 수강(https://www.youtube.com/watch?v=A3J8jU3WsGg&list=PLRx0vPvlEmdAdWCQeUPnyMZ4PsW3dGuFB&index=15)
 
 # 프로젝트 개요
 * Eclipse IDE
