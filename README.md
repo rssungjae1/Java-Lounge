@@ -1,8 +1,8 @@
 # java_lecture_evaluation
-lecture evaluation
+JSP 강의 후기등록 사이트 제작
 
 # index
-※유튜브 나도코딩 강의 수강(https://www.youtube.com/watch?v=A3J8jU3WsGg&list=PLRx0vPvlEmdAdWCQeUPnyMZ4PsW3dGuFB&index=15)
+※유튜브 동빈나 강의 수강(https://www.youtube.com/watch?v=A3J8jU3WsGg&list=PLRx0vPvlEmdAdWCQeUPnyMZ4PsW3dGuFB&index=15)
 
 # 프로젝트 개요
 * Eclipse IDE
